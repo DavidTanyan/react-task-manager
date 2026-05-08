@@ -1,0 +1,35 @@
+.app {
+  max-width: 500px;
+  margin: 50px auto;
+  text-align: center;
+  font-family: Arial;
+}
+
+input {
+  padding: 10px;
+  width: 60%;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.task {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 8px 0;
+  background: #f4f4f4;
+  border-radius: 8px;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+
+.filters button {
+  margin: 5px;
+}
