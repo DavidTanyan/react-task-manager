@@ -39,7 +39,7 @@ index.css
 INSTALLATION & SETUP
 
 Clone repository:
-git clone https://github.com/your-username/react-task-manager.git
+git clone https://github.com/DavidTanyan/react-task-manager.git
 Go to project folder:
 cd react-task-manager
 Install dependencies:
